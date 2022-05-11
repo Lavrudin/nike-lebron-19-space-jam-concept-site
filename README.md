@@ -19,7 +19,7 @@ Este projeto foi desenvolvido utilizando:
 
 # Status do projeto
 
-Finalizado: https://nike-lebron-19-space-jam-concept-site.vercel.app/
+Finalizado (apenas versão desktop): https://nike-lebron-19-space-jam-concept-site.vercel.app/
 
 <br>
 
