@@ -19,7 +19,7 @@ Este projeto foi desenvolvido utilizando:
 
 # Status do projeto
 
-Em produção: ...
+Finalizado: https://nike-lebron-19-space-jam-concept-site.vercel.app/
 
 <br>
 
@@ -41,3 +41,5 @@ Designer: <a href="https://www.figma.com/@vato">Vato
 <br>
 
 # Licença
+
+<a href="https://github.com/Lavrudin/nike-lebron-19-space-jam-concept-site/blob/main/LICENSE.md" target="_blank">LICENSE</a>
